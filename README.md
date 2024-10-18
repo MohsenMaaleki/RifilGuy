@@ -20,6 +20,14 @@ In RifleGuy, players navigate through various environments, facing waves of enem
 
 2. **Manual Shooting Mode**: For players who prefer precision and control. Use the right joystick to aim and shoot in any direction, independent of your movement.
 
+
+https://github.com/user-attachments/assets/2a0d152e-1550-435b-b91c-2fa73744d6dc
+
+
+
+https://github.com/user-attachments/assets/e6c37ff7-56ff-4d58-b8e1-4ea8021ce24b
+
+
 ## Development
 
 RifleGuy is developed using the Unity game engine, leveraging its powerful 3D capabilities to create smooth gameplay and visually appealing environments.
